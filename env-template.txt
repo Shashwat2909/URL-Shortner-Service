@@ -1,0 +1,11 @@
+#Application Port Number
+PORT=3000
+
+#Database Configuration
+MONGO_URI=<Your mongodb URL>
+
+#Base URL for Shortened Links
+BASE_URL=http://localhost:3000/
+
+#JWT Secret Key
+JWT_SECRET=<Your Secret Key>
